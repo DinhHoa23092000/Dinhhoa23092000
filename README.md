@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Dinh Thi Hoa.
+Currently, I am a third-year student at Passerelles Numeriques Vietnam.
+
 
 <!--
 **DinhHoa23092000/Dinhhoa23092000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
