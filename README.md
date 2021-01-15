@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
 - ⚡ Fun fact: I spend my free time on shopping
 <p>
- <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="310px alt="programmergif">
 </p>
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
