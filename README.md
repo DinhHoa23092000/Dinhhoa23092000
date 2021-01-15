@@ -1,4 +1,4 @@
-<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="30" /> Hello, Welcome to my Github Profile! </h2>
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="35" /> Hello, Welcome to my Github Profile! </h2>
 
 ### About me
 - 😄 My name is Hoa. You can call me is: Sora Dinh<br/>
