@@ -72,9 +72,11 @@
   <a href="https://github.com/DinhHoa23092000">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=DinhHoa23092000&show_icons=true&theme=gotham">
   </a>
+ 
   <a href="https://github.com/DinhHoa23092000">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhHoa23092000&layout=compact&theme=gotham" />
   </a>
+ </p>
 <div align="center">
 
 ### If interested in me, please follow me! ❤️
