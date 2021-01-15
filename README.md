@@ -1,20 +1,82 @@
-### Hi there 👋
-My name is Dinh Thi Hoa.
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="30" /> Hello, Welcome to my Github Profile! </h2>
 
-Currently, I am a third-year student at Passerelles Numeriques Vietnam.
+### About me
+- 😄 My name is Hoa. You can call me is: Sora Dinh<br/>
+- 🤔 I am looking for a job as a web developer<br/>
+- 🌱 I’m currently learning VueJs & Laravel<br/> 
+- ⚡ Fun fact: I spend my free time on shopping
+<p>
+ <img align="right" src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
 
+### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
+<a href="https://www.linkedin.com/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://join.skype.com/">
+  <img align="left" alt="Skype" width="22px" src="http://simpleicon.com/wp-content/uploads/skype.png" />
+</a>
+<a href="https://www.facebook.com/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a><br/>
 
-<!--
-**DinhHoa23092000/Dinhhoa23092000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="Visual Studio Code" width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="HTML5" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</a>
+ 
+<a href="https://github.com/DinhHoa23092000">
+<img align="left" alt="CSS3" width="26px"
+ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+ 
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="JavaScript" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+ 
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="JavaScript" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+ </a>
+ 
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="React.js" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="Node.js" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</a>
+
+<a href="https://github.com/DinhHoa23092000">
+ <img align="left" alt="MySQL" width="26px"
+ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</a>
+
+<a href="https://github.com/DinhHoa23092000">
+  <img align="left" alt="GitHub" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</a>
+<br/>
+
+### Working with git
+<p align=center>
+  <a href="https://github.com/DinhHoa23092000">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=DinhHoa23092000&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/DinhHoa23092000">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhHoa23092000&layout=compact&theme=gotham" />
+  </a>
+<div align="center">
+
+### If interested in me, please follow me! ❤️
+
+</div>
