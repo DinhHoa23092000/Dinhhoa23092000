@@ -10,7 +10,7 @@
 </p>
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/dinhthihoa21/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://join.skype.com/">
