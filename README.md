@@ -68,15 +68,15 @@
 <br/>
 
 ### Working with git
-<div align="center">
-  <a href="https://github.com/Dinhhoa23092000">
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dinhhoa2307.Dinhhoa23072000)
-  </a>
-  <a href="https://github.com/Dinhhoa23072000">
-    <img href="https://github.com/Dinhhoa23092000" src="https://img.shields.io/github/stars/Dinhthihoa23092000/Dinhthihoa03092000"/>
-  </a>
- </div>
+<div align=center>
+    <a href="https://github.com/Dinhhoa23092000">
+     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Dinhhoa23092000&show_icons=true">
+    </a>
+    <a href="https://github.com/Dinhhoa23092000">
+     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhhoa23092000&layout=compact" />
+    </a>
+   </div>
+  <div align=center>
 
 ### If interested in me, please follow me! ❤️
 
