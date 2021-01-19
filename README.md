@@ -72,7 +72,7 @@
 
    <div align="center">
     <a href="https://github.com/Dinhhoa23092000">
-     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Dinhhoa23092000&show_icons=true&theme=gotham">
+     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Dinhhoa23092000&show_icons=true&theme=gotham" />
     </a>
     <a href="https://github.com/Dinhhoa23092000">
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhhoa23092000&layout=compact&theme=gotham" />
