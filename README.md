@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/dinhthihoa21/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://join.skype.com/">
+<a href="https://join.skype.com/invite/kEZnNh8g5eyI">
   <img align="left" alt="Skype" width="22px" src="http://simpleicon.com/wp-content/uploads/skype.png" />
 </a>
 <a href="https://www.facebook.com/hoahoa2010">
