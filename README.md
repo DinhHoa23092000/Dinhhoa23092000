@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning VueJs & Laravel<br/> 
 - ⚡ Fun fact: I spend my free time on shopping
 <p>
- <img align="right" src="https://media.giphy.com/media/U2AH7M3nag85Ko4wVl/giphy.gif" />
+ <img align="right" src="https://lh3.googleusercontent.com/proxy/4Z_3xvNfGHT_chG8lktxKdfRtbS5M_QZWPRezia7pairZlp8lm32Zt6p0FjIdi7MHmzEE4nIDsbfRny2ktigvquaGFrbLrrhWx1mMGWj_727GoL9cjM" />
 </p>
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
@@ -68,16 +68,15 @@
 <br/>
 
 ### Working with git
-<p align=center>
-  <a href="https://github.com/DinhHoa23092000">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=DinhHoa23092000&show_icons=true&theme=gotham">
-  </a>
- 
-  <a href="https://github.com/DinhHoa23092000">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhHoa23092000&layout=compact&theme=gotham" />
-  </a>
- </p>
 <div align="center">
+  <a href="https://github.com/Dinhhoa23092000">
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dinhhoa2307.Dinhhoa23072000)
+  </a>
+  <a href="https://github.com/Dinhhoa23072000">
+    <img href="https://github.com/Dinhhoa23092000" src="https://img.shields.io/github/stars/Dinhthihoa23092000/Dinhthihoa03092000"/>
+  </a>
+ </div>
 
 ### If interested in me, please follow me! ❤️
 
